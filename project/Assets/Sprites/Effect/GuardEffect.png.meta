@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 7cdb11fcc4d43f44c88f7c2aa42282c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4435392958778281771
+    second: GuardEffect_0
+  - first:
+      213: 8027861837590571769
+    second: GuardEffect_1
+  - first:
+      213: -1923348724526039752
+    second: GuardEffect_2
+  - first:
+      213: -8091184223788942312
+    second: GuardEffect_3
+  - first:
+      213: -1059173576806534257
+    second: GuardEffect_4
+  - first:
+      213: -6676092309346407337
+    second: GuardEffect_5
+  - first:
+      213: -4752165811997218993
+    second: GuardEffect_6
+  - first:
+      213: -630929306246781370
+    second: GuardEffect_7
+  - first:
+      213: -258670103557228179
+    second: GuardEffect_8
+  - first:
+      213: -8016671723747177303
+    second: GuardEffect_9
+  - first:
+      213: 9149954348493921428
+    second: GuardEffect_10
+  - first:
+      213: -2152434127459440406
+    second: GuardEffect_11
+  - first:
+      213: 4845901554312058080
+    second: GuardEffect_12
+  - first:
+      213: 5178861187556404622
+    second: GuardEffect_13
+  - first:
+      213: 6981767268137056892
+    second: GuardEffect_14
+  - first:
+      213: -8326496663256229774
+    second: GuardEffect_15
+  - first:
+      213: -3816737383878661546
+    second: GuardEffect_16
+  - first:
+      213: 793719521991653085
+    second: GuardEffect_17
+  - first:
+      213: 8892425224403024504
+    second: GuardEffect_18
+  - first:
+      213: 5167874760361519767
+    second: GuardEffect_19
+  - first:
+      213: 4527433129270595553
+    second: GuardEffect_20
+  - first:
+      213: 6588339437910959851
+    second: GuardEffect_21
+  - first:
+      213: -2691016113079012721
+    second: GuardEffect_22
+  - first:
+      213: -4577646677508319115
+    second: GuardEffect_23
+  - first:
+      213: 8774904787031576178
+    second: GuardEffect_24
+  - first:
+      213: -8323342877948521879
+    second: GuardEffect_25
+  - first:
+      213: 7971019194363016019
+    second: GuardEffect_26
+  - first:
+      213: -3619428936069608940
+    second: GuardEffect_27
+  - first:
+      213: -5932192192010524496
+    second: GuardEffect_28
+  - first:
+      213: 8265458640957228221
+    second: GuardEffect_29
+  - first:
+      213: -2141104902157261562
+    second: GuardEffect_30
+  - first:
+      213: -2604084860189489303
+    second: GuardEffect_31
+  - first:
+      213: 6645754354641123454
+    second: GuardEffect_32
+  - first:
+      213: 749712966453078841
+    second: GuardEffect_33
+  - first:
+      213: -5437131153944809977
+    second: GuardEffect_34
+  - first:
+      213: 3990010594762051841
+    second: GuardEffect_35
+  - first:
+      213: -441770638358565717
+    second: GuardEffect_36
+  - first:
+      213: -2710971646830276017
+    second: GuardEffect_37
+  - first:
+      213: -604935880657541475
+    second: GuardEffect_38
+  - first:
+      213: 1885084704409294305
+    second: GuardEffect_39
+  - first:
+      213: 1716192163453209927
+    second: GuardEffect_40
+  - first:
+      213: -6228344071625094408
+    second: GuardEffect_41
+  - first:
+      213: 5906951528073910997
+    second: GuardEffect_42
+  - first:
+      213: 7013589079777328239
+    second: GuardEffect_43
+  - first:
+      213: -2042269769499061681
+    second: GuardEffect_44
+  - first:
+      213: 6099110515889751167
+    second: GuardEffect_45
+  - first:
+      213: -7180292246391166053
+    second: GuardEffect_46
+  - first:
+      213: -4790627710734577029
+    second: GuardEffect_47
+  - first:
+      213: -4675044843886361861
+    second: GuardEffect_48
+  - first:
+      213: 2236966611630696599
+    second: GuardEffect_49
+  - first:
+      213: 414567953004079407
+    second: GuardEffect_50
+  - first:
+      213: 57284801897203925
+    second: GuardEffect_51
+  - first:
+      213: -284386592656556372
+    second: GuardEffect_52
+  - first:
+      213: 6357871571527402132
+    second: GuardEffect_53
+  - first:
+      213: -3117835055431356147
+    second: GuardEffect_54
+  - first:
+      213: 3331863912228705807
+    second: GuardEffect_55
+  - first:
+      213: -3534000934475301619
+    second: GuardEffect_56
+  - first:
+      213: 1719967892760569052
+    second: GuardEffect_57
+  - first:
+      213: 4176620920122839169
+    second: GuardEffect_58
+  - first:
+      213: -4253285508739901038
+    second: GuardEffect_59
+  - first:
+      213: 8332686537934268075
+    second: GuardEffect_60
+  - first:
+      213: 879954168204945
+    second: GuardEffect_61
+  - first:
+      213: -4708629230195975030
+    second: GuardEffect_62
+  - first:
+      213: -6386668086546339042
+    second: GuardEffect_63
+  - first:
+      213: 2859390561522654685
+    second: GuardEffect_64
+  - first:
+      213: 3742986428662176021
+    second: GuardEffect_65
+  - first:
+      213: -7515631521544958270
+    second: GuardEffect_66
+  - first:
+      213: -7614779817572335059
+    second: GuardEffect_67
+  - first:
+      213: -8349130500960572577
+    second: GuardEffect_68
+  - first:
+      213: -5135838001104525285
+    second: GuardEffect_69
+  - first:
+      213: 6610284256697762951
+    second: GuardEffect_70
+  - first:
+      213: 2413829746809697961
+    second: GuardEffect_71
+  - first:
+      213: 2271428944779774446
+    second: GuardEffect_72
+  - first:
+      213: -3224471284229170316
+    second: GuardEffect_73
+  - first:
+      213: -8125967666515439285
+    second: GuardEffect_74
+  - first:
+      213: 6053665228178797474
+    second: GuardEffect_75
+  - first:
+      213: 4860164137868148539
+    second: GuardEffect_76
+  - first:
+      213: -3876844451898540867
+    second: GuardEffect_77
+  - first:
+      213: -652925581612669479
+    second: GuardEffect_78
+  - first:
+      213: 7466006020326397918
+    second: GuardEffect_79
+  - first:
+      213: 3605621264959924401
+    second: GuardEffect_80
+  - first:
+      213: 603315851482423398
+    second: GuardEffect_81
+  - first:
+      213: -7520875114195108455
+    second: GuardEffect_82
+  - first:
+      213: 5510951783765760157
+    second: GuardEffect_83
+  - first:
+      213: 7590239053192583067
+    second: GuardEffect_84
+  - first:
+      213: -3110314422714419770
+    second: GuardEffect_85
+  - first:
+      213: -4724108435371485789
+    second: GuardEffect_86
+  - first:
+      213: -1188742642828864510
+    second: GuardEffect_87
+  - first:
+      213: 8785747974312863409
+    second: GuardEffect_88
+  - first:
+      213: 3975177576961826004
+    second: GuardEffect_89
+  - first:
+      213: 4603663646726462249
+    second: GuardEffect_90
+  - first:
+      213: 5889823943982957116
+    second: GuardEffect_91
+  - first:
+      213: 2331382730160819634
+    second: GuardEffect_92
+  - first:
+      213: 2768270406528969824
+    second: GuardEffect_93
+  - first:
+      213: 4309498809626690959
+    second: GuardEffect_94
+  - first:
+      213: -3549465410316108238
+    second: GuardEffect_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardEffect_0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 641
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8f33756ead8d30800000000000000
+      internalID: 4435392958778281771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 574
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa208fcec1b86f60800000000000000
+      internalID: 8027861837590571769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 643
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dbc6f7684ee45e0800000000000000
+      internalID: -1923348724526039752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 612
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cb0d041d656bf80800000000000000
+      internalID: -8091184223788942312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 613
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8377fe5e3f0d41f0800000000000000
+      internalID: -1059173576806534257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 624
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca0b58a61c953a0800000000000000
+      internalID: -6676092309346407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 604
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47662e3f5aec0eb0800000000000000
+      internalID: -4752165811997218993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 595
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646e6c6832d7e37f0800000000000000
+      internalID: -630929306246781370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_8
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 606
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69357b49e4096cf0800000000000000
+      internalID: -258670103557228179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 570
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac81299a8f0fb090800000000000000
+      internalID: -8016671723747177303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 579
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c550d500b2bfe70800000000000000
+      internalID: 9149954348493921428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 570
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82a5ea0940122e0800000000000000
+      internalID: -2152434127459440406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 583
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49849f9c9104340800000000000000
+      internalID: 4845901554312058080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 573
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d6b51bfc20fd740800000000000000
+      internalID: 5178861187556404622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 566
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a32c1e65834e060800000000000000
+      internalID: 6981767268137056892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 557
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27813238667527c80800000000000000
+      internalID: -8326496663256229774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 540
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a65f04299380bc0800000000000000
+      internalID: -3816737383878661546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_17
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 583
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6fa9f23bbd30b00800000000000000
+      internalID: 793719521991653085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 574
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af344a0ad386b70800000000000000
+      internalID: 8892425224403024504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 569
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a2e07c6baf7b740800000000000000
+      internalID: 5167874760361519767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4286917ca4de30800000000000000
+      internalID: 4527433129270595553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 539
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be62160ffcb7e6b50800000000000000
+      internalID: 6588339437910959851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 567
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b21f4a1797aad0800000000000000
+      internalID: -2691016113079012721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 561
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789ed7a99ee870c0800000000000000
+      internalID: -4577646677508319115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 251
+        width: 196
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e44e09969b6c970800000000000000
+      internalID: 8774904787031576178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_25
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 563
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d91060cb8d7c80800000000000000
+      internalID: -8323342877948521879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_26
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 539
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353f3d999bfbe9e60800000000000000
+      internalID: 7971019194363016019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0dc72f8435cdc0800000000000000
+      internalID: -3619428936069608940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 514
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8edd7a1ae9cada0800000000000000
+      internalID: -5932192192010524496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 554
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db440f777dec4b270800000000000000
+      internalID: 8265458640957228221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 519
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a1108f644942e0800000000000000
+      internalID: -2141104902157261562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 86
+        width: 370
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ce6fdd9e6cdbd0800000000000000
+      internalID: -2604084860189489303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_32
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 504
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b3e4ff567a3c50800000000000000
+      internalID: 6645754354641123454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 478
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba0f888f3876a00800000000000000
+      internalID: 749712966453078841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 482
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee8ebc50e6b84b0800000000000000
+      internalID: -5437131153944809977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 478
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10156d6fe7d5f5730800000000000000
+      internalID: 3990010594762051841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_36
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 480
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca07ce1f38ed9f0800000000000000
+      internalID: -441770638358565717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_37
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 480
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42968a86a1b06ad0800000000000000
+      internalID: -2710971646830276017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 461
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e4898506da97f0800000000000000
+      internalID: -604935880657541475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_39
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 442
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e596d11d8a292a10800000000000000
+      internalID: 1885084704409294305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_40
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 467
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d00fc0ea321d710800000000000000
+      internalID: 1716192163453209927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_41
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 465
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa40e7e01a7099a0800000000000000
+      internalID: -6228344071625094408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 411
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dadb405e15b9f150800000000000000
+      internalID: 5906951528073910997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 430
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cbfa4cb16455160800000000000000
+      internalID: 7013589079777328239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_44
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 433
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425d7d077668a3e0800000000000000
+      internalID: -2042269769499061681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_45
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 427
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74457123b464a450800000000000000
+      internalID: 6099110515889751167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 433
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bec56ae3a7a5c90800000000000000
+      internalID: -7180292246391166053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 394
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d58a9a75448db0800000000000000
+      internalID: -4790627710734577029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_48
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 386
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c123eb77ee1fb0800000000000000
+      internalID: -4675044843886361861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_49
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 407
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79828a4084d4b0f10800000000000000
+      internalID: 2236966611630696599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_50
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 401
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a1165b57d0c500800000000000000
+      internalID: 414567953004079407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_51
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 402
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d88c1c49348bc000800000000000000
+      internalID: 57284801897203925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_52
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 369
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae72d596e7ad0cf0800000000000000
+      internalID: -284386592656556372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_53
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 375
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49202744282bb3850800000000000000
+      internalID: 6357871571527402132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_54
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 375
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f0cc39893bb4d0800000000000000
+      internalID: -3117835055431356147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 344
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d55043982d3e20800000000000000
+      internalID: 3331863912228705807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 325
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d73b0cfd4b4fec0800000000000000
+      internalID: -3534000934475301619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 347
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd422198fad8ed710800000000000000
+      internalID: 1719967892760569052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_58
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 349
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1801361299656f930800000000000000
+      internalID: 4176620920122839169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 297
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299dd3b5d5b49f4c0800000000000000
+      internalID: -4253285508739901038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_60
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 324
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6604ef146a3a370800000000000000
+      internalID: 8332686537934268075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_61
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 337
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4d9b4050230000800000000000000
+      internalID: 879954168204945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_62
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 319
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd52b99a697aeb0800000000000000
+      internalID: -4708629230195975030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_63
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be41b963ffd57a0800000000000000
+      internalID: -6386668086546339042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_64
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 312
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd99a5e0989ea720800000000000000
+      internalID: 2859390561522654685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_65
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 313
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519548f5352c1f330800000000000000
+      internalID: 3742986428662176021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_66
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 313
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce859f53fc13b790800000000000000
+      internalID: -7515631521544958270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 287
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2289cac91ed25690800000000000000
+      internalID: -7614779817572335059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 280
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5badd28b0ee12c80800000000000000
+      internalID: -8349130500960572577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_69
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 266
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1866308c86d9b8b0800000000000000
+      internalID: -5135838001104525285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_70
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 293
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784c3d832827cbb50800000000000000
+      internalID: 6610284256697762951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_71
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 276
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6fcde9d55af7120800000000000000
+      internalID: 2413829746809697961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_72
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 275
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9832a379cb58f10800000000000000
+      internalID: 2271428944779774446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_73
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 239
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b921373706043d0800000000000000
+      internalID: -3224471284229170316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_74
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 244
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419905e573ca3f80800000000000000
+      internalID: -8125967666515439285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_75
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 251
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a33bba8370f20450800000000000000
+      internalID: 6053665228178797474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_76
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 237
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f39bb7885c27340800000000000000
+      internalID: 4860164137868148539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_77
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 233
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb42be28ea23ac0800000000000000
+      internalID: -3876844451898540867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_78
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 227
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5263394a750f6f0800000000000000
+      internalID: -652925581612669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 226
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79b7c3be49c9760800000000000000
+      internalID: 7466006020326397918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_80
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 200
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e784ef6db90230800000000000000
+      internalID: 3605621264959924401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_81
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 184
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e8f602986f5800800000000000000
+      internalID: 603315851482423398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_82
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 207
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d33525eeb70a790800000000000000
+      internalID: -7520875114195108455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_83
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d9a5f275da7c40800000000000000
+      internalID: 5510951783765760157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_84
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 121
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9757dd3432f55960800000000000000
+      internalID: 7590239053192583067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_85
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 96
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5355ef281f5d4d0800000000000000
+      internalID: -3110314422714419770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_86
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 117
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5914d4868907eb0800000000000000
+      internalID: -4724108435371485789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_87
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 146
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20493d45ddcb08fe0800000000000000
+      internalID: -1188742642828864510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_88
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a607db3f3de970800000000000000
+      internalID: 8785747974312863409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_89
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 125
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc58e1e1faaa2730800000000000000
+      internalID: 3975177576961826004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_90
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 112
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b928802bf73ef30800000000000000
+      internalID: 4603663646726462249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_91
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 126
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c1b2ebabdcb150800000000000000
+      internalID: 5889823943982957116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_92
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 120
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd47baad3cba5020800000000000000
+      internalID: 2331382730160819634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_93
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 87
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca26f844fda6620800000000000000
+      internalID: 2768270406528969824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_94
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 82
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8584cba55a6ecb30800000000000000
+      internalID: 4309498809626690959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardEffect_95
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 52
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7293e304cdbec0800000000000000
+      internalID: -3549465410316108238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GuardEffect_0: 4435392958778281771
+      GuardEffect_1: 8027861837590571769
+      GuardEffect_10: 9149954348493921428
+      GuardEffect_11: -2152434127459440406
+      GuardEffect_12: 4845901554312058080
+      GuardEffect_13: 5178861187556404622
+      GuardEffect_14: 6981767268137056892
+      GuardEffect_15: -8326496663256229774
+      GuardEffect_16: -3816737383878661546
+      GuardEffect_17: 793719521991653085
+      GuardEffect_18: 8892425224403024504
+      GuardEffect_19: 5167874760361519767
+      GuardEffect_2: -1923348724526039752
+      GuardEffect_20: 4527433129270595553
+      GuardEffect_21: 6588339437910959851
+      GuardEffect_22: -2691016113079012721
+      GuardEffect_23: -4577646677508319115
+      GuardEffect_24: 8774904787031576178
+      GuardEffect_25: -8323342877948521879
+      GuardEffect_26: 7971019194363016019
+      GuardEffect_27: -3619428936069608940
+      GuardEffect_28: -5932192192010524496
+      GuardEffect_29: 8265458640957228221
+      GuardEffect_3: -8091184223788942312
+      GuardEffect_30: -2141104902157261562
+      GuardEffect_31: -2604084860189489303
+      GuardEffect_32: 6645754354641123454
+      GuardEffect_33: 749712966453078841
+      GuardEffect_34: -5437131153944809977
+      GuardEffect_35: 3990010594762051841
+      GuardEffect_36: -441770638358565717
+      GuardEffect_37: -2710971646830276017
+      GuardEffect_38: -604935880657541475
+      GuardEffect_39: 1885084704409294305
+      GuardEffect_4: -1059173576806534257
+      GuardEffect_40: 1716192163453209927
+      GuardEffect_41: -6228344071625094408
+      GuardEffect_42: 5906951528073910997
+      GuardEffect_43: 7013589079777328239
+      GuardEffect_44: -2042269769499061681
+      GuardEffect_45: 6099110515889751167
+      GuardEffect_46: -7180292246391166053
+      GuardEffect_47: -4790627710734577029
+      GuardEffect_48: -4675044843886361861
+      GuardEffect_49: 2236966611630696599
+      GuardEffect_5: -6676092309346407337
+      GuardEffect_50: 414567953004079407
+      GuardEffect_51: 57284801897203925
+      GuardEffect_52: -284386592656556372
+      GuardEffect_53: 6357871571527402132
+      GuardEffect_54: -3117835055431356147
+      GuardEffect_55: 3331863912228705807
+      GuardEffect_56: -3534000934475301619
+      GuardEffect_57: 1719967892760569052
+      GuardEffect_58: 4176620920122839169
+      GuardEffect_59: -4253285508739901038
+      GuardEffect_6: -4752165811997218993
+      GuardEffect_60: 8332686537934268075
+      GuardEffect_61: 879954168204945
+      GuardEffect_62: -4708629230195975030
+      GuardEffect_63: -6386668086546339042
+      GuardEffect_64: 2859390561522654685
+      GuardEffect_65: 3742986428662176021
+      GuardEffect_66: -7515631521544958270
+      GuardEffect_67: -7614779817572335059
+      GuardEffect_68: -8349130500960572577
+      GuardEffect_69: -5135838001104525285
+      GuardEffect_7: -630929306246781370
+      GuardEffect_70: 6610284256697762951
+      GuardEffect_71: 2413829746809697961
+      GuardEffect_72: 2271428944779774446
+      GuardEffect_73: -3224471284229170316
+      GuardEffect_74: -8125967666515439285
+      GuardEffect_75: 6053665228178797474
+      GuardEffect_76: 4860164137868148539
+      GuardEffect_77: -3876844451898540867
+      GuardEffect_78: -652925581612669479
+      GuardEffect_79: 7466006020326397918
+      GuardEffect_8: -258670103557228179
+      GuardEffect_80: 3605621264959924401
+      GuardEffect_81: 603315851482423398
+      GuardEffect_82: -7520875114195108455
+      GuardEffect_83: 5510951783765760157
+      GuardEffect_84: 7590239053192583067
+      GuardEffect_85: -3110314422714419770
+      GuardEffect_86: -4724108435371485789
+      GuardEffect_87: -1188742642828864510
+      GuardEffect_88: 8785747974312863409
+      GuardEffect_89: 3975177576961826004
+      GuardEffect_9: -8016671723747177303
+      GuardEffect_90: 4603663646726462249
+      GuardEffect_91: 5889823943982957116
+      GuardEffect_92: 2331382730160819634
+      GuardEffect_93: 2768270406528969824
+      GuardEffect_94: 4309498809626690959
+      GuardEffect_95: -3549465410316108238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
